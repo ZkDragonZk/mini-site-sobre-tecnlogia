@@ -240,4 +240,34 @@ nav .logo.space{
 span {
     color: #e63600;
 }
-/* FIM DO NAVBAR */
+/* FOOTER */
+footer {
+  padding-bottom: 10px;
+  background: #171c24;
+}
+footer .d4 {
+  font-size: 59px;
+  padding-top: 120px;
+  padding-left: 479px;
+  color: white;
+}
+footer .span3  {
+  color: aquamarine;
+}
+footer i {
+  padding-bottom: 150px;
+  padding-top: 82px;
+  padding-left: 687px;
+  font-size: 59px;
+  color: white;
+}
+footer .copy {
+  padding-top: 12px;
+  color:white;
+}
+.d4::selection {
+  background-color: black;
+}
+.span3::selection {
+  background-color: black;
+}
